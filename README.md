@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=999999&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=80&lines=Nathan+Paul+Philip" />
 
@@ -13,7 +13,7 @@ Kerala, India · Expected 2029
 
 ---
 
-I build stuff, stuff will appear here once its tuff
+I build stuff, stuff will appear here once it's tuff
 
 ---
 
@@ -46,6 +46,6 @@ I build stuff, stuff will appear here once its tuff
   <a href="https://www.linkedin.com/in/nathan-paul-philip"><img src="https://img.shields.io/badge/nathan--paul--philip-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=footer" alt="footer"/>
 
 </div>
