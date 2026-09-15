@@ -13,7 +13,7 @@ Kerala, India · Expected 2029
 
 ---
 
-I build stuff, stuff will be uploaded here once its tuff
+I build stuff, stuff will appear here once its tuff
 
 ---
 
